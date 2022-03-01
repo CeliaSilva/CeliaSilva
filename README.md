@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CeliaSilva
 - 👀 I’m interested in R
-- 🌱 I’m currently learning Interruped Time Series analysis using R
+- 🌱 I’m currently learning Interruped Time Series and ARIMA models using R
 
 <!---
 CeliaSilva/CeliaSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
